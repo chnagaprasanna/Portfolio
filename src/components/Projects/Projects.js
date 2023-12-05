@@ -72,6 +72,7 @@ function Projects() {
               title="Data Visualization"
               description="Data Visualization is a powerful and insightful process that transforms raw data from databases into visually compelling representations. Through a variety of visualization techniques, complex datasets are presented in a way that is easy to understand, facilitating analysis, decision-making, and the identification of patterns or trends"
               ghLink="https://github.com/prasanna-chintamaneni/KIET-RCTS-TASK1"
+              demoLink="https://prasanna-kiet-rcts-task-1.vercel.app/"
             />
           </Col>
 
@@ -81,7 +82,8 @@ function Projects() {
               isBlog={false}
               title="Responsive Dashboard"
               description="This Responsive Dashboard is a web application built using React. It includes components like Navbar, Sidebar, Cards, PieCharts, Table, Form, and Footer. This project aims to provide a responsive and user-friendly interface for various functionalities"
-              ghLink="#"
+              ghLink="https://github.com/prasanna-chintamaneni/KIET-RCTS-NOV-TASK"
+              demoLink="https://nagaprasanna-kiet-rcts-nov-task.vercel.app/"
             />
           </Col>
         </Row>
