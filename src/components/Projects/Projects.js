@@ -58,10 +58,10 @@ function Projects() {
             <ProjectCard
               imgPath={SCB}
               isBlog={false}
-              title="Special Coding Batch Website"
-              description="It is a comprehensive platform designed to cater to the diverse needs of students enrolled in a specialized coding program. This dynamic website serves as a centralized hub for students, providing essential features and resources to enhance their learning experience."
-              ghLink="https://github.com/prasanna-chintamaneni/SCB-WEBSITE"
-              demoLink="#"
+              title="Plant Disease Detection"
+              description="Plant disease detection and fertilizer prediction use machine learning to improve farming. With Convolutional Neural Networks (CNN), the system identifies plant diseases from images, allowing for quick treatment. It also predicts the best times and amounts of fertilizer to use, ensuring healthy crop growth and higher yields."
+              ghLink="https://github.com/prasanna-chintamaneni/FinalYearProject"
+              demoLink="https://npfinalyearproject.streamlit.app/"
             />
           </Col>
 
