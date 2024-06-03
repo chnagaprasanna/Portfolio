@@ -6,7 +6,7 @@ import Attendance from "../../Assets/Projects/Attendance.png";
 import Brightness from "../../Assets/Projects/Brightness.png";
 import Dashboard from "../../Assets/Projects/Dashboard.png";
 import Data from "../../Assets/Projects/Data.png";
-import SCB from "../../Assets/Projects/SCB.png";
+import PlantDisease from "../../Assets/Projects/plantdisease.png";
 import Volume from "../../Assets/Projects/Volume.png";
 
 function Projects() {
@@ -56,12 +56,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={SCB}
+              imgPath={PlantDisease}
               isBlog={false}
               title="Plant Disease Detection"
               description="Plant disease detection and fertilizer prediction use machine learning to improve farming. With Convolutional Neural Networks (CNN), the system identifies plant diseases from images, allowing for quick treatment. It also predicts the best times and amounts of fertilizer to use, ensuring healthy crop growth and higher yields."
               ghLink="https://github.com/prasanna-chintamaneni/FinalYearProject"
-              demoLink="https://npfinalyearproject.streamlit.app/"
+              demoLink="https://npfinalyearproject.streamlit.app/x"
             />
           </Col>
 
