@@ -3,7 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGithub, faLinkedin, faInstagram, faHackerrank } from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faLinkedin,  faHackerrank } from "@fortawesome/free-brands-svg-icons";
+import { faCode } from "@fortawesome/free-solid-svg-icons";
 
 function Home2() {
   return (
@@ -82,12 +83,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/prasanna_chintamaneni"
+                  href="https://linktr.ee/chnagaprasanna"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
-                  <FontAwesomeIcon icon={faInstagram} />
+                  <FontAwesomeIcon icon={faCode} />
                 </a>
               </li>
               <li className="social-icons">
