@@ -3,7 +3,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import { AiFillGithub} from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faHackerrank, faCode } from "@fortawesome/free-brands-svg-icons";
+import { faHackerrank} from "@fortawesome/free-brands-svg-icons";
+import { faCode } from "@fortawesome/free-solid-svg-icons";
+
 
 function Footer() {
   let date = new Date();
