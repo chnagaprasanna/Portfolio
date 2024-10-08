@@ -1,9 +1,9 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import { AiFillGithub, AiFillInstagram } from "react-icons/ai";
+import { AiFillGithub} from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faHackerrank } from "@fortawesome/free-brands-svg-icons";
+import { faHackerrank, faCode } from "@fortawesome/free-brands-svg-icons";
 
 function Footer() {
   let date = new Date();
@@ -41,12 +41,12 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/prasanna_chintamaneni"
+                href="https://linktr.ee/chnagaprasanna"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <AiFillInstagram />
+               <FontAwesomeIcon icon={faCode} />
               </a>
             </li>
             <li className="social-icons">
