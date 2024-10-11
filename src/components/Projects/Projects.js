@@ -58,7 +58,7 @@ function Projects() {
             <ProjectCard
               imgPath={PlantDisease}
               isBlog={false}
-              title="Plant Disease Detection"
+              title="Plant Disease Detection using CNN"
               description="Plant disease detection and fertilizer prediction use machine learning to improve farming. With Convolutional Neural Networks (CNN), the system identifies plant diseases from images, allowing for quick treatment. It also predicts the best times and amounts of fertilizer to use, ensuring healthy crop growth and higher yields."
               ghLink="https://github.com/prasanna-chintamaneni/FinalYearProject"
               demoLink="https://npfinalyearproject.streamlit.app/x"
