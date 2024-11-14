@@ -3,7 +3,7 @@
   <a href="https://nagaprasanna.vercel.app/" target="_blank">NAGA PRASANNA CH</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img.png" />
+  <img alt="Demo" src="./Images/image.png" />
 </div>
 
 
