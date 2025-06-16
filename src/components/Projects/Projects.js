@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Attendance System through Face Recognition"
               description="is a modern and efficient solution for recording and managing attendance in various settings, such as schools, universities, organizations, and businesses. This project leverages facial recognition technology to accurately identify and record the attendance of individuals."
-              ghLink="https://github.com/chnagaprasanna/AttendanceSystemThroughFaceRecognition"
+              ghLink="https://github.com/chnagaprasanna/Attendance-System-Through-Face-Recognition"
               demoLink="#"
             />
           </Col>
@@ -82,6 +82,10 @@ function Projects() {
               isBlog={false}
               title="Car Dashboard"
               description="This Car Dashboard is a web application built using React. It includes components like Navbar, Sidebar, Cards, PieCharts, Table, Form, and Footer. This project aims to provide a responsive and user-friendly interface for various functionalities"
+              ghLink="https://github.com/chnagaprasanna/KIET-RCTS-NOV-TASK"
+              demoLink="https://nagaprasanna-kiet-rcts-nov-task.vercel.app/"
+
+
 
             />
           </Col>
